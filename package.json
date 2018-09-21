@@ -1,0 +1,19 @@
+{
+  "name": "svg-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StepanPG/svg-canvas.git"
+  },
+  "author": "StepanPG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StepanPG/svg-canvas/issues"
+  },
+  "homepage": "https://github.com/StepanPG/svg-canvas#readme"
+}
